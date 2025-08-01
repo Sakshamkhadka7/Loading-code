@@ -12,3 +12,4 @@ animation to scale up and down using the @keyframe preloader rule.
 
 # Screenshot
 ![Loader Screenshot](https://github.com/Sakshamkhadka7/Loading-code/blob/main/Screenshot%20(13).png?raw=true)
+![After loader scrrenshot](https://github.com/Sakshamkhadka7/Loading-code/blob/main/Screenshot%20(12).png?raw=true)
