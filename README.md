@@ -1,8 +1,8 @@
-# Simple loader Animation
+# Simple loader Animation 👼
 This is a lightweight,responsive loader animation built purely using HTML and CSS . The animation display three circular dots
 that scale in and out in sequence creating a visually appealing loading effect.
 
-# Feature :paint:
+# Feature 🪶
 **Pure CSS Animation** : No javascript involved
 **Responsive web design**: Works well across different screen sizes
 
