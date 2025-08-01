@@ -11,4 +11,4 @@ The loader consists of three span elements inside a div with the class loader. E
 animation to scale up and down using the @keyframe preloader rule.
 
 # Screenshot
-![Loader Screenshot](./Loading/screenshot.png)
+![Loader Screenshot](./Loading/screenshot(14).png)
