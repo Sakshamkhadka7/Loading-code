@@ -10,3 +10,5 @@ that scale in and out in sequence creating a visually appealing loading effect.
 The loader consists of three span elements inside a div with the class loader. Each circle (.loader-element) uses slightly delayed
 animation to scale up and down using the @keyframe preloader rule.
 
+# Screenshot
+![Alt text]("C:\Users\dell\OneDrive\Pictures\Screenshots\Screenshot (14).png")
